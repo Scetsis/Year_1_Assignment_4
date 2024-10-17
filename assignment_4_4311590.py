@@ -57,4 +57,3 @@ if __name__ == "__main__":
     change_name(student1, "Laura", "first_name")
 
     print("for debug purposes :)")
-
